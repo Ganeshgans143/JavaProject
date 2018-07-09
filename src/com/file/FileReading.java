@@ -27,7 +27,7 @@ public class FileReading {
 			}
 			
 			line=br.readLine();
-//			Java project
+//			Java project nhh
 		}
 		System.out.println("wordCount: "+wordCount);
 		System.out.println("No of lines: "+lineCount);
